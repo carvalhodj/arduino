@@ -12,10 +12,10 @@
  * Endereço do broker e
  * suas credenciais
  */
-const char *broker = "m13.cloudmqtt.com";
-const char *user = "cadztvug";
-const char *pass = "GD-y5WMun5kV";
-const int   port = 13904;
+const char *broker = "***********";
+const char *user = "***********";
+const char *pass = "***********";
+const int   port = ***********;
 
 /*
  * Inicializar cliente MQTT
